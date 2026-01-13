@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Hoopsmobile" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/button_bg</item>
+        <item name="android:colorBackground">@color/bg_primary</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+    </style>
+</resources>

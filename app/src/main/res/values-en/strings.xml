@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Hoops Mobile</string>
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="age_hint">Age</string>
+
+    <string name="home_title">Rick and Morty</string>
+    <string name="welcome_user">Welcome!</string>
+    <string name="btn_logout">Log Out</string>
+    <string name="btn_settings">Settings</string>
+
+    <string name="intro_title">Welcome to Hooper!</string>
+    <string name="intro_subtitle">Minimalist Reading</string>
+    <string name="btn_start">Start</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_dark_theme">Dark Theme</string>
+    <string name="settings_text_size">Text Size</string>
+    <string name="text_small">Small</string>
+    <string name="text_medium">Medium</string>
+    <string name="text_large">Large</string>
+    <string name="settings_language">Interface Language</string>
+
+    <string name="settings_data_management">Data Management</string>
+    <string name="file_info_not_found">File not found</string>
+    <string name="backup_info_none">Backup: None</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_restore">Restore</string>
+
+    <string name="login_title">Log In</string>
+    <string name="btn_login_action">Log In</string>
+    <string name="no_account">No account?</string>
+    <string name="btn_to_register">Register</string>
+
+    <string name="register_title">Registration</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="btn_register_action">Register</string>
+
+    <string name="btn_reset">Reset Settings</string>
+
+</resources>
